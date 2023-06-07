@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+.App h1 {
+  font-size: 2rem;
+  text-align: center;
+}
